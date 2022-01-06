@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb://localhost:27017/test"
+      # 如未设置用户名及密码，则不需要指定
+      # username:
+      # password:
